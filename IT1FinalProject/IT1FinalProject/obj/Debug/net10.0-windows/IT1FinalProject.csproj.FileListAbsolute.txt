@@ -1,0 +1,17 @@
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\IT1FinalProject.csproj.GenerateResource.cache
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\IT1FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\IT1FinalProject.AssemblyInfoInputs.cache
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\IT1FinalProject.AssemblyInfo.cs
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\IT1FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\MouseDoubleClickChecker.Form1.resources
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\bin\Debug\net10.0-windows\IT1FinalProject.exe
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\bin\Debug\net10.0-windows\IT1FinalProject.deps.json
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\bin\Debug\net10.0-windows\IT1FinalProject.runtimeconfig.json
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\bin\Debug\net10.0-windows\IT1FinalProject.dll
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\bin\Debug\net10.0-windows\IT1FinalProject.pdb
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\IT1FinalProject.dll
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\refint\IT1FinalProject.dll
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\IT1FinalProject.pdb
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\IT1FinalProject.genruntimeconfig.cache
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\ref\IT1FinalProject.dll
+C:\Users\AINZ Internet Shop\source\repos\IT1FinalProject\IT1FinalProject\obj\Debug\net10.0-windows\IT1Final.17742857.Up2Date
