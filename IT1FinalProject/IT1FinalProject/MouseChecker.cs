@@ -17,9 +17,9 @@ namespace MouseDoubleClickChecker
                 return doubleClickTime;
             }
         }
-        public override string DoubleClickChecker()
+        public override string DoubleClickCounter()
         {
-            base.RegisterDoubleClick();
+            base.DoubleClickCounter();
             return "Mouse double-click successfully detected!";
         }
     }
