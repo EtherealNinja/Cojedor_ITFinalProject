@@ -27,7 +27,7 @@ namespace MouseDoubleClickChecker
 
         private void pnlClickArea_MouseDoubleClick(object sender, MouseEventArgs e)
         {
-            string message = action.RegisterDoubleClick();
+            string message = action.DoubleClickChecker();
 
             lblCount.Text = "Double-click count: "
                 + action.DoubleClickCount;
